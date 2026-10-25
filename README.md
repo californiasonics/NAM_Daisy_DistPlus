@@ -1,6 +1,3 @@
-# \# Marshall JCM800 Tone Stack on the Daisy Seed
-
-# 
 
 # Code from the californiasonics video Building Digital Guitar Effects - Using the Hothouse, Daisy Seed. Part 5 Neural Amp Model NAM A2: https://youtu.be/ZidmOwZGLek?si=H7RnLRO4T3p41qjJ
 
